@@ -1,7 +1,7 @@
 #include <iostream>
 #include <TRandom3.h>
-int main()
+ int main()
 {
-  TRandom3 generator;
-  std::cout<<generator.Poisson(5)<<std::endl;
+  TRandom3 generator(0);
+  std::cout<<generator.Poisson(100)<<std::endl;
 }
