@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# PHYS-792
-### New Git Project
-=======
 [![Documentation](https://codedocs.xyz/jintonic/gears.svg)](https://codedocs.xyz/jintonic/gears/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Code size](https://img.shields.io/github/languages/code-size/jintonic/gears.svg?style=flat)
@@ -365,4 +361,3 @@ The catch is that functions in [G4SteppingVerbose][] will not be called in [G4St
 [HTML]: https://www.w3schools.com/html/
 [HDF5]: https://www.hdfgroup.org/downloads/hdf5/
 [Qt]: https://doc.qt.io/
->>>>>>> upstream/master

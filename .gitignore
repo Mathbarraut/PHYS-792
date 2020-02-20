@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-*.exe
-*.log
-*.jpg
-*.png
-*.pdf
-*~
-=======
 # visualization files
 .DAWN*
 *.heprep
