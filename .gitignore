@@ -1,6 +1,45 @@
+<<<<<<< HEAD
 *.exe
 *.log
 *.jpg
 *.png
 *.pdf
 *~
+=======
+# visualization files
+.DAWN*
+*.heprep
+*.eps
+*.prim
+*.jpeg
+*.jpg
+*.png
+*.pdf
+user.properties
+*.gif
+
+# Executables
+gears
+ghdf5
+gcsv
+gxml
+
+# backup files
+\#*
+.swp
+*~
+
+# Data
+*.root
+*.json
+*.csv
+*.h5
+*.he5
+*.hdf
+*.hdf5
+
+# alternative output format
+ghdf5.cc
+gcsv.cc
+gxml.cc
+>>>>>>> upstream/master
